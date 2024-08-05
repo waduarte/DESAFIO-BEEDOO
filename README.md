@@ -1,5 +1,7 @@
 # DESAFIO-BEEDOO
 Planejamento e evidências do desafio Beedoo
+- Documentação de todos os cenários e casos de teste junto com as evidências dos cenários com erros 
+https://docs.google.com/spreadsheets/d/1PeayYiwLtalwKhYDzPdC4PrQHwf1jYVn3TOl9xH0NvE/edit?usp=sharing
 
 ---
 # ETAPA 1
